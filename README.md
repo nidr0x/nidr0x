@@ -1,14 +1,15 @@
-<h2 align="center">Hello there! My name is Carlos 👋🤓</h2>
+<h1 align="center">Carlos</h1>
 
-## ⚡ Domains
+<p align="center">
+  Platform engineer focused on Kubernetes, developer platforms, and cloud infrastructure.
+</p>
 
-- Open-source
-- Kubernetes
-- Platform engineering
-- Cloud
+## GitHub
 
-## ⚡ My GitHub Stats
-
-<picture>
-  <img src="/metrics/light.svg" alt="Metrics">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/metrics/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/metrics/light.svg">
+    <img src="/metrics/light.svg" alt="GitHub activity metrics">
+  </picture>
+</div>
